@@ -1,1 +1,4 @@
-*.js linguist-language=html
+* linguist-vendored=false
+*.png linguist-documentation
+*.md linguist-documentation
+LICENSE linguist-documentation
